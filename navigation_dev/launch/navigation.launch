@@ -1,0 +1,6 @@
+<!-- Run the navigation_dev package nodes-->
+<launch>
+  <node pkg="navigation_dev" name="april_detect" type="april_detect.py" output="screen"></node>
+  <node pkg="navigation_dev" name="localization_node" type="localization_node.py" output="screen"></node>
+  <node pkg="navigation_dev" name="planner_node" type="planner_node.py" output="screen"></node>
+</launch>
