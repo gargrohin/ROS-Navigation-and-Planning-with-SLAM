@@ -1,0 +1,4 @@
+uint32 robot_flag
+uint32 x
+uint32 y
+uint32 theta
