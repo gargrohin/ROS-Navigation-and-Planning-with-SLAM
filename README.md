@@ -1,4 +1,4 @@
-# Robotics Assignments for Localization, Navigation, Plannint and SLAM
+# Robotics Assignments for Localization, Navigation, Planning and SLAM
 
 This code is an extention of the original template code provided by @AftermathK. We hve written code for Navigation using open loop controls for the Jetbot using Python and ROS.
 The 3 `navigation_dev` folders provide functionality for:
@@ -8,7 +8,9 @@ The 3 `navigation_dev` folders provide functionality for:
 - Path Planning using Voronoi graph based algorithms
 - Path for Coverage
 
-### Authors: Rohin Garg @gargrohin and Sgreya Saha @shreyasaha1997
+### Authors: 
+1. Rohin Garg @gargrohin 
+2. Shreya Saha @shreyasaha1997
 
 
 # jetbot_ros
